@@ -3,6 +3,7 @@ from selenium import webdriver
 #Through Selenium test we need to invoke the executable file which will then invoke actual browser
 #driver = webdriver.Chrome(executable_path="C:\\chromedriver.exe")
 #driver=webdriver.Firefox(executable_path="C:\\geckodriver.exe")
+print("Hello this is Ankit Kumar Singh")
 driver = webdriver.Ie(executable_path="C:\\IEDriverServer.exe")
 driver.maximize_window()
 driver.get("https://rahulshettyacademy.com/")  #get method to hit url on  browser
