@@ -5,4 +5,8 @@ This code is commited by Ankit Kumar Singh.
 This is for learning purpose.
 
 Git Demo for develop branch.
+<<<<<<< HEAD
 This is in develop branch and changes done from GitData folder.
+=======
+This is updated from develop branch for Gitdata folder.
+>>>>>>> develop
